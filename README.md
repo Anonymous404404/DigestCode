@@ -1,4 +1,4 @@
-# Digest
+# DIGEST
 
 Fast and Communication Efficient Decentralized Learning with Local Updates
 
